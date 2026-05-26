@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "dbb86dd5-b5e4-4c7f-871c-6ee09e93e187",
+    "LastName": "\u0406\u0432\u0430\u043D\u0435\u043D\u043A\u043E",
+    "FirstName": "\u041F\u0435\u0442\u0440\u043E",
+    "MiddleName": "\u041E\u043B\u0435\u043A\u0441\u0456\u0439\u043E\u0432\u0438\u0447",
+    "BirthDate": "1985-04-12T00:00:00",
+    "CriminalArticle": "\u0441\u0442. 115 \u0447. 1",
+    "SentenceYears": 12,
+    "IsLifeSentence": false,
+    "ArrestDate": "2018-03-14T00:00:00",
+    "CellNumber": 101,
+    "HierarchyLevel": "Blatni",
+    "RelativesInfo": "\u041C\u0430\u0442\u0438 \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u0454 \u0443 \u043C. \u0425\u0430\u0440\u043A\u0456\u0432, \u043F\u0456\u0434\u0442\u0440\u0438\u043C\u0443\u0454 \u043B\u0438\u0441\u0442\u0443\u0432\u0430\u043D\u043D\u044F.",
+    "CharacterNotes": "\u0421\u043F\u043E\u043A\u0456\u0439\u043D\u0438\u0439, \u0434\u0438\u0441\u0446\u0438\u043F\u043B\u0456\u043D\u043E\u0432\u0430\u043D\u0438\u0439, \u043A\u043E\u043D\u0444\u043B\u0456\u043A\u0442\u0456\u0432 \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u043A\u0443\u0454."
+  },
+  {
+    "Id": "180bedeb-461f-45f6-9ea1-1891ded87335",
+    "LastName": "\u041C\u0435\u043B\u044C\u043D\u0438\u043A",
+    "FirstName": "\u041E\u043B\u0435\u0433",
+    "MiddleName": "\u0412\u0430\u0441\u0438\u043B\u044C\u043E\u0432\u0438\u0447",
+    "BirthDate": "1968-01-21T00:00:00",
+    "CriminalArticle": "\u0441\u0442. 111",
+    "SentenceYears": null,
+    "IsLifeSentence": true,
+    "ArrestDate": "2001-07-09T00:00:00",
+    "CellNumber": 103,
+    "HierarchyLevel": "Muzhiki",
+    "RelativesInfo": "\u041A\u043E\u043D\u0442\u0430\u043A\u0442 \u043F\u0456\u0434\u0442\u0440\u0438\u043C\u0443\u0454 \u043B\u0438\u0448\u0435 \u0441\u0435\u0441\u0442\u0440\u0430.",
+    "CharacterNotes": "\u0417\u0430\u043C\u043A\u043D\u0435\u043D\u0438\u0439, \u043F\u043E\u0442\u0440\u0435\u0431\u0443\u0454 \u043F\u043E\u0441\u0438\u043B\u0435\u043D\u043E\u0433\u043E \u043F\u0441\u0438\u0445\u043E\u043B\u043E\u0433\u0456\u0447\u043D\u043E\u0433\u043E \u0441\u0443\u043F\u0440\u043E\u0432\u043E\u0434\u0443."
+  },
+  {
+    "Id": "63e68f54-bb99-4f14-9601-95b6359a94d3",
+    "LastName": "I\u0432\u0430\u043D\u043E\u0432",
+    "FirstName": "\u041E\u043B\u0435\u0433",
+    "MiddleName": "\u0412i\u043A\u0442\u043E\u0440\u043E\u0432\u0438\u0447",
+    "BirthDate": "2000-05-20T00:00:00",
+    "CriminalArticle": "436 \u0447.2",
+    "SentenceYears": 1,
+    "IsLifeSentence": false,
+    "ArrestDate": "2026-05-20T00:00:00+03:00",
+    "CellNumber": 103,
+    "HierarchyLevel": "Muzhiki",
+    "RelativesInfo": "\u041Fi\u0434\u0442\u0440\u0438\u043C\u0443\u044E\u0442\u044C \u0437\u0432\u0027\u044F\u0437\u043E\u043A",
+    "CharacterNotes": "\u0411\u0443\u0439\u043D\u0438\u0439, \u0442\u0430\u0442\u0443\u044E\u0432\u0430\u043D\u043D\u044F \u0441\u0432\u0430\u0441\u0442\u0438\u043A\u0438 \u043D\u0430 \u0448\u0438i"
+  }
+]
